@@ -1,3 +1,3 @@
 # quiz-game
 
-This a simple and basic quiz game using javascript.
+A simple and basic quiz game made using JavaScript, where you can test your knowledge in a fun way!
